@@ -17,4 +17,6 @@ Key Features:
 - Handling relations between Server and Child components in a real-time environment
 - Creating and managing chat rooms and channels
 
+## Live Demo 
+https://social-media-6uhda1lxz-gajender401.vercel.app/
 
